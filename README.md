@@ -1,5 +1,8 @@
 # ActivityStore
 
+Backend Server located in different repository:
+
+[ActivityStore-Server](https://github.com/beingmerry/ActivityStore-Server)
 
 # Original Create-React-App README.md below
 
